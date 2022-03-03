@@ -5,5 +5,5 @@
 (from desired working directory)
 ```
 wget https://github.com/B1QUAD/cosmoTemplate/raw/main/pkg.zip
-unzip
+unzip pkg.zip
 ```
